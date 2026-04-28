@@ -1,0 +1,450 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 24.1.0 d001Apr-28-2026 at 11:23:58 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='THREE_PHASE_INVERTER';
+ POST_TIME='Sep  4 2024 20:54:11';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_0805_470U':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS310@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins310@analog.\c.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins310@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,290)',
+ SECTION='';
+
+PART_NAME
+ C2 'C_0805_159U':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS1011@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins1011@analog.\c.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins1011@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,460)',
+ SECTION='';
+
+PART_NAME
+ C3 'C_0805_159U':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS1027@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins1027@analog.\c.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins1027@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,470)',
+ SECTION='';
+
+PART_NAME
+ C4 'C_0805_159U':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS1043@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins1043@analog.\c.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins1043@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,480)',
+ SECTION='';
+
+PART_NAME
+ C5 'C_0805_100U':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS2850@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins2850@analog.\c.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins2850@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,60)',
+ SECTION='';
+
+PART_NAME
+ C6 'C_0805_1U':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS6297@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins6297@analog.\c.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins6297@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,80)',
+ SECTION='';
+
+PART_NAME
+ C7 'C_0805_1U':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS8135@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins8135@analog.\c.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins8135@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,270)',
+ SECTION='';
+
+PART_NAME
+ C8 'C_0805_1U':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS8632@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins8632@analog.\c.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins8632@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,470)',
+ SECTION='';
+
+PART_NAME
+ D1 'D1N3879_0805_D1N3879':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS531@DIODE.D1N3879.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins531@diode.\d1n3879.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins531@diode.\d1n3879.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,180)',
+ SECTION='';
+
+PART_NAME
+ D10 'D1N3879_0805_D1N3879':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS8508@DIODE.D1N3879.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins8508@diode.\d1n3879.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins8508@diode.\d1n3879.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,450)',
+ SECTION='';
+
+PART_NAME
+ D2 'D1N3879_0805_D1N3879':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS547@DIODE.D1N3879.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins547@diode.\d1n3879.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins547@diode.\d1n3879.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,370)',
+ SECTION='';
+
+PART_NAME
+ D3 'D1N3879_0805_D1N3879':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS563@DIODE.D1N3879.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins563@diode.\d1n3879.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins563@diode.\d1n3879.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,180)',
+ SECTION='';
+
+PART_NAME
+ D4 'D1N3879_0805_D1N3879':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS579@DIODE.D1N3879.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins579@diode.\d1n3879.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins579@diode.\d1n3879.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,370)',
+ SECTION='';
+
+PART_NAME
+ D5 'D1N3879_0805_D1N3879':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS595@DIODE.D1N3879.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins595@diode.\d1n3879.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins595@diode.\d1n3879.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,180)',
+ SECTION='';
+
+PART_NAME
+ D6 'D1N3879_0805_D1N3879':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS611@DIODE.D1N3879.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins611@diode.\d1n3879.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins611@diode.\d1n3879.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,370)',
+ SECTION='';
+
+PART_NAME
+ D7 '1N4099_DIOAD1036W78L470D235_1N4099':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS2825@DIODE.1N4099.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins2825@diode.\1n4099.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins2825@diode.\1n4099.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,40)',
+ SECTION='';
+
+PART_NAME
+ D8 'D1N3879_0805_D1N3879':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS6022@DIODE.D1N3879.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins6022@diode.\d1n3879.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins6022@diode.\d1n3879.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,60)',
+ SECTION='';
+
+PART_NAME
+ D9 'D1N3879_0805_D1N3879':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS8011@DIODE.D1N3879.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins8011@diode.\d1n3879.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins8011@diode.\d1n3879.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,250)',
+ SECTION='';
+
+PART_NAME
+ IC1 'IR2104S_TC2308_BMP43_IR2104S_IR2104S_TC2308_BMP43':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS5083@LIBRARY2.IR2104S_TC2308_BMP43.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins5083@library2.\ir2104s_tc2308_bmp43.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins5083@library2.\ir2104s_tc2308_bmp43.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,80)',
+ SECTION='';
+
+PART_NAME
+ IC2 'IR2104S_TC2308_BMP43_IR2104S_IR2104S_TC2308_BMP43':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS8043@LIBRARY2.IR2104S_TC2308_BMP43.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins8043@library2.\ir2104s_tc2308_bmp43.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins8043@library2.\ir2104s_tc2308_bmp43.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,270)',
+ SECTION='';
+
+PART_NAME
+ IC3 'IR2104S_TC2308_BMP43_IR2104S_IR2104S_TC2308_BMP43':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS8540@LIBRARY2.IR2104S_TC2308_BMP43.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins8540@library2.\ir2104s_tc2308_bmp43.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins8540@library2.\ir2104s_tc2308_bmp43.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,470)',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_JUMPER2_CON2':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS3645@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins3645@connector.\con2.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins3645@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,290)',
+ SECTION='';
+
+PART_NAME
+ J2 'CON3_JUMPER3_CON3':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS3898@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins3898@connector.\con3.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins3898@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,710)',
+ SECTION='';
+
+PART_NAME
+ L1 'L_IND_SRP4020TA-R10Y_0.1':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS1150@ANALOG.L.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins1150@analog.\l.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins1150@analog.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,530)',
+ SECTION='';
+
+PART_NAME
+ L2 'L_IND_SRP4020TA-R10Y_0.1':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS1166@ANALOG.L.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins1166@analog.\l.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins1166@analog.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,540)',
+ SECTION='';
+
+PART_NAME
+ L3 'L_IND_SRP4020TA-R10Y_0.1':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS1182@ANALOG.L.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins1182@analog.\l.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins1182@analog.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,540)',
+ SECTION='';
+
+PART_NAME
+ MOS1 'MOSFET_TRANS_IRF3205S_MOSFET':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS344@LIBRARY1.MOSFET.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins344@library1.\mosfet.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins344@library1.\mosfet.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,160)',
+ SECTION='';
+
+PART_NAME
+ MOS2 'MOSFET_TRANS_IRF3205S_MOSFET':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS358@LIBRARY1.MOSFET.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins358@library1.\mosfet.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins358@library1.\mosfet.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,350)',
+ SECTION='';
+
+PART_NAME
+ MOS3 'MOSFET_TRANS_IRF3205S_MOSFET':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS372@LIBRARY1.MOSFET.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins372@library1.\mosfet.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins372@library1.\mosfet.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,160)',
+ SECTION='';
+
+PART_NAME
+ MOS4 'MOSFET_TRANS_IRF3205S_MOSFET':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS386@LIBRARY1.MOSFET.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins386@library1.\mosfet.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins386@library1.\mosfet.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,350)',
+ SECTION='';
+
+PART_NAME
+ MOS5 'MOSFET_TRANS_IRF3205S_MOSFET':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS426@LIBRARY1.MOSFET.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins426@library1.\mosfet.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins426@library1.\mosfet.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,160)',
+ SECTION='';
+
+PART_NAME
+ MOS6 'MOSFET_TRANS_IRF3205S_MOSFET':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS440@LIBRARY1.MOSFET.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins440@library1.\mosfet.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins440@library1.\mosfet.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,350)',
+ SECTION='';
+
+PART_NAME
+ R1 'R_0805_0.1':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS1093@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins1093@analog.\r.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins1093@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,480)',
+ SECTION='';
+
+PART_NAME
+ R2 'R_0805_0.1':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS1109@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins1109@analog.\r.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins1109@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,480)',
+ SECTION='';
+
+PART_NAME
+ R3 'R_0805_0.1':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS1125@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins1125@analog.\r.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins1125@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,470)',
+ SECTION='';
+
+PART_NAME
+ R4 'R_0805_10':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS1501@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins1501@analog.\r.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins1501@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,640)',
+ SECTION='';
+
+PART_NAME
+ R5 'R_0805_10':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS1517@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins1517@analog.\r.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins1517@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,640)',
+ SECTION='';
+
+PART_NAME
+ R6 'R_0805_10':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS1533@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins1533@analog.\r.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins1533@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,640)',
+ SECTION='';
+
+PART_NAME
+ R7 'R_0805_1K':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS3389@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins3389@analog.\r.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins3389@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,30)',
+ SECTION='';
+
+PART_NAME
+ U1 'NANO-ESP32-ENTRY_MODULE_NANO-ESP32-ENTRY_NANO-ESP32-ENTRY':;
+
+SECTION_NUMBER 1
+ '@THREE_PHASE_INVERTER.SCHEMATIC1(SCH_1):INS82@NANO-ESP32-ENTRY.NANO-ESP32-ENTRY.NORMAL(CHIPS)':
+ C_PATH='@three_phase_inverter.schematic1(sch_1):ins82@\nano-esp32-entry\.\nano-esp32-entry.normal\(chips)',
+ P_PATH='@three_phase_inverter.schematic1(sch_1):page1_ins82@\nano-esp32-entry\.\nano-esp32-entry.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1130,260)',
+ SECTION='';
+
+END.
